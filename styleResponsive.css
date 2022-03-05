@@ -37,6 +37,6 @@
     }
     .form{
         width: 80vw;
-        
+        display: none;
     }
 }
