@@ -12,6 +12,7 @@
         margin-left: 15px ;
     }
  
+
     .conteudo{
         flex-direction: column;
         padding:0;
@@ -42,5 +43,9 @@
     .container-sub{
         height:800px;
         
+    }
+    .container-sub2-mobile{
+        background-color: aqua;
+        height: 500px;
     }
 }
