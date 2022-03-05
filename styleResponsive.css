@@ -11,14 +11,7 @@
         color: #10106c;
         margin-left: 15px ;
     }
-    .btn{
-        background-color: aqua;
-        border-radius: 0 0 40% 40%;
-        margin-bottom: -20px;
-        height: 50px;
-        width: 100vw;
-    }
-    
+ 
     .conteudo{
         flex-direction: column;
         padding:0;
@@ -48,6 +41,6 @@
     }
     .container-sub{
         height:800px;
-        background-color: aqua;
+        
     }
 }
