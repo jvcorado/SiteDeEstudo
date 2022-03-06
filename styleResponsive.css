@@ -30,7 +30,12 @@
        background-color: #10106c;
         
     }
- 
+    .menu-mobile nav{
+        display:flex;
+        background-color: rgb(255, 255, 255);
+        color: #10106c;
+        margin-left: 15px ;
+    }
 
     .conteudo{
         flex-direction: column;
