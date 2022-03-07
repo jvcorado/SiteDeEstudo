@@ -5,7 +5,10 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+body{
+    background-color: rgb(255, 255, 255);
+   
+}
 .cabecalho{
     width: 100%;
     height: 100px;
@@ -20,11 +23,22 @@
 }
 .black{
     background-color: black;
-    color: rgb(252, 2, 2);
+    color: rgb(255, 255, 255);
 }
 .white{
-    background-color: #10106c;
+    background-color: #ffffff;
+    color: black;
 }
+.btn-js{
+    color: white;
+    padding: 10px;
+    border-radius: 10%;
+    border: none;
+    background-color: #7070f7;
+    cursor: pointer;
+}
+
+
 .logo{
     font-weight: bold;
     color: white;

@@ -1,13 +1,14 @@
 @media (max-width:500px) {
     .cabecalho{
         height: 100px;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
         border-radius:  0 0 50% 50%;
-        justify-content: center;
+        justify-content: space-evenly;
+        padding-bottom: 20px;
     }
     .logo{
-        padding-bottom: 20px;
+        
     }
     .menu nav{
         display: none;
