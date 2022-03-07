@@ -18,6 +18,13 @@
     padding-top: 20px;
     border-radius: 0 0 50% 50%;
 }
+.black{
+    background-color: black;
+    color: rgb(252, 2, 2);
+}
+.white{
+    background-color: #10106c;
+}
 .logo{
     font-weight: bold;
     color: white;
